@@ -6,9 +6,10 @@
       style="min-width:320px;max-width:450px;"
     >
       <div class="col-12" style="max-width:400px;">
-        <h6>{{time}}</h6>
+        <h5>{{time}}</h5>
+        <br />
       </div>
-      <div class="col-3 p-0 mr-2">
+      <div class="col-3 p-0 mr-2" style="color:#aaa">
         <div
           class="text-right"
           v-if="this.time"
@@ -45,7 +46,7 @@
           <span>{{this.datetime.s01}}</span>
         </div>
       </div>
-      <div class="col-3 p-0 ml-2" v-if="this.time">
+      <div class="col-3 p-0 ml-2" v-if="this.time" style="color:#aaa">
         <div
           class="text-left"
         >{{this.time.getFullYear().toString()[2]}}{{this.time.getFullYear().toString()[3]}}</div>
@@ -54,6 +55,11 @@
         <div class="text-left">{{this.meridiem}}</div>
         <div class="text-left">{{("0"+this.time.getMinutes()).slice(-2)}}</div>
         <div class="text-left">{{("0"+this.time.getSeconds()).slice(-2)}}</div>
+      </div>
+      <div class="col-12">
+        <small>
+          <br />I've always been fascintated with binary clocks. I find it satisfying watching and waiting for the digits to flip. Inspired by an LED desk-clock, I may one day extend this to include some CSS, converting those 1's and 0's to mimic LEDs.
+        </small>
       </div>
     </div>
   </div>

@@ -12,11 +12,7 @@
     </div>
 
     <!-- Clock Component -->
-    <div class="row m-3 d-flex justify-content-center">
-      <div
-        class="col-12 text-light-vue text-shadow-dark valign bg-dark rounded-lg py-2 my-2"
-        style="min-width:320px;max-width:450px;"
-      >I've always been fascintated with binary clocks. I find it satisfying watching and waiting for the digits to flip. Inspired by an LED desk-clock, I may one day extend this to include some CSS, converting those 1's and 0's to mimic LEDs.</div>
+    <div class="row m-3 d-flex">
       <clock />
     </div>
 
