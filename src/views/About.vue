@@ -25,19 +25,21 @@
         <a
           href="https://drive.google.com/file/d/1wr6A3HvVw2nHFLzWRMOftcsuuIi1bPSK/view?usp=sharing"
         >
+          <h4 class="p-2 m-0">My Emergenetics Profile</h4>
+        </a>
+      </div>
+      <div
+        class="col-12 col-md-6 text-light-vue text-shadow-dark valign bg-white rounded-lg"
+        style="min-width:320px;max-width:450px;"
+      >
+        <a href="https://www.emergenetics.com/">
           <img
             class="py-2"
             :src="require('@/assets/img/emergenetics_logo.png')"
             style="height:75px;"
           />
-        </a>
-      </div>
-      <div
-        class="col-12 text-light-vue text-shadow-dark valign bg-white rounded-lg"
-        style="min-width:320px;max-width:450px;"
-      >
-        <a href="https://www.emergenetics.com/">
-          <small class="text-muted">https://www.emergenetics.com</small>
+          <!-- <br />
+          <small class="text-muted">https://www.emergenetics.com</small>-->
         </a>
       </div>
     </div>
