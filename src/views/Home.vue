@@ -381,7 +381,15 @@ export default {
           hostUrl: "https://justinmattson.github.io/CheckPoint2",
           img: "lollipop.png",
           name: "The Lollipop Shop",
-          stack: "JS | HTML | CSS",
+          stack: "Bootstrap | HTML | CSS",
+        },
+        {
+          githubUrl: "https://github.com/JustinMattson/Checkpoint2-Halfmoon",
+          hostName: "GitHub",
+          hostUrl: "https://justinmattson.github.io/Checkpoint2-Halfmoon/",
+          img: "lollipop-halfmoon.png",
+          name: "The Lollipop Shop",
+          stack: "Halfmoon | HTML | CSS",
         },
         {
           githubUrl: "https://github.com/JustinMattson/week-1-checkpoint",
@@ -398,6 +406,14 @@ export default {
           img: "landing.png",
           name: "Landing Page",
           stack: "Vue.js",
+        },
+        {
+          githubUrl: "https://github.com/JustinMattson/todos-react",
+          hostName: "GitHub",
+          hostUrl: "https://justinmattson.github.io/todos-react/",
+          img: "todos-react.png",
+          name: "1st React App",
+          stack: "React",
         },
         // {
         //   githubUrl: null,
