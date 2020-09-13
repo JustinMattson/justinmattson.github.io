@@ -303,6 +303,28 @@ export default {
           imgUrl:
             "https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png",
         },
+        {
+          title: "React",
+          link: "https://reactjs.org/",
+          imgUrl: "https://tactless7.github.io/cv/img/icons/react_logo_2.png",
+        },
+        {
+          title: "Halfmoon",
+          link: "https://www.gethalfmoon.com/",
+          imgUrl:
+            "https://www.gethalfmoon.com/static/halfmoon/img/hm-logo-white.svg",
+        },
+        {
+          title: "Python",
+          link: "https://www.python.org/",
+          imgUrl: "https://www.python.org/static/img/python-logo@2x.png",
+        },
+        {
+          title: "Selenium",
+          link: "https://www.selenium.dev/",
+          imgUrl:
+            "https://th.bing.com/th/id/OIP.NPQVOCjh0Pqb-yO8BgQ5HQAAAA?w=179&h=180&c=7&o=5&dpr=1.5&pid=1.7",
+        },
         // {
         //   title: null,
         //   link: null,
