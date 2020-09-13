@@ -311,13 +311,13 @@ export default {
         {
           title: "Halfmoon",
           link: "https://www.gethalfmoon.com/",
-          imgUrl:
-            "https://www.gethalfmoon.com/static/halfmoon/img/hm-logo-white.svg",
+          imgUrl: "https://www.gethalfmoon.com/static/halfmoon/img/hm-logo.svg",
         },
         {
           title: "Python",
           link: "https://www.python.org/",
-          imgUrl: "https://www.python.org/static/img/python-logo@2x.png",
+          imgUrl:
+            "https://files.realpython.com/media/python-logo.8eb72ea6927b.png",
         },
         {
           title: "Selenium",
