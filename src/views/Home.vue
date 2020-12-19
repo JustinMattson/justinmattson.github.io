@@ -9,6 +9,11 @@
       </div>
       <div class="col-xs-12 order-xs-2 col-sm-12 order-sm-2 col-md-6 order-md-1">
         <h1 class="text-left">Justin Mattson</h1>
+        <h2 class="text-left" style="font-size:16px;">
+          <a href="mailto:justin.mattson@outlook.com">
+          <i class="far fa-envelope"></i> justin.mattson@outlook.com</a>
+        </h2>
+        <br />
         <h2 class="text-left" style="font-size:20px;">&nbsp;Experience Highlights</h2>
         <div class="text-left">
           <ul class="pr-3">
@@ -352,10 +357,10 @@ export default {
         },
         {
           githubUrl: "https://github.com/JustinMattson/capstone-volunteer",
-          hostName: "Heroku (Capstone Team: Kevin Lane, Xander Rutledge)",
+          hostName: "Heroku",
           hostUrl: "https://capstone-volunteer.herokuapp.com",
           img: "volunteer.png",
-          name: "Volunteer",
+          name: "Volunteer (Capstone Team: Kevin Lane, Xander Rutledge)",
           stack: "Vue.js | Node.js | MongoDB",
         },
         {
@@ -368,10 +373,10 @@ export default {
         },
         {
           githubUrl: "https://github.com/JustinMattson/checkpoint-kanban",
-          hostName: "Heroku (Partner Application: Kevin Lane)",
+          hostName: "Heroku",
           hostUrl: "https://checkpoint-kanban.herokuapp.com",
           img: "kanban.png",
-          name: "Kanban",
+          name: "Kanban (Partner Application: Kevin Lane)",
           stack: "Vue.js | Node.js | MongoDB",
         },
         {
@@ -385,10 +390,10 @@ export default {
         {
           githubUrl: "https://github.com/JustinMattson/hackathon-1",
           hostName:
-            "Hackathon (Team: Troy Fuhriman, Steven Packard, Kevin Lane)",
+            "Hackathon:LocalHost",
           hostUrl: null,
           img: "sceneit.png",
-          name: "Scene It!",
+          name: "Scene It! (Team: Troy Fuhriman, Steven Packard, Kevin Lane)",
           stack: "JS | Node.js | MongoDB",
         },
         {
