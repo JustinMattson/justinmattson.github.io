@@ -50,7 +50,7 @@
         <div
           class="text-left"
         >{{this.time.getFullYear().toString()[2]}}{{this.time.getFullYear().toString()[3]}}</div>
-        <div class="text-left">{{"0"+(this.time.getMonth()+1)}}</div>
+        <div class="text-left">{{("0"+(this.time.getMonth()+1)).slice(-2)}}</div>
         <div class="text-left">{{("0"+this.time.getDate()).slice(-2)}}</div>
         <div class="text-left">{{this.meridiem}}</div>
         <div class="text-left">{{("0"+this.time.getMinutes()).slice(-2)}}</div>
