@@ -187,19 +187,19 @@ export default {
         },
         {
           title: "HTML",
-          link: null,
+          link: "https://en.wikipedia.org/wiki/HTML5",
           imgUrl:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png",
         },
         {
           title: "CSS",
-          link: null,
+          link: "https://en.wikipedia.org/wiki/CSS",
           imgUrl:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/100px-CSS3_logo_and_wordmark.svg.png",
         },
         {
           title: "JS",
-          link: null,
+          link: "https://en.wikipedia.org/wiki/JavaScript",
           imgUrl:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/2000px-Javascript_badge.svg.png",
         },
