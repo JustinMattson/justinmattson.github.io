@@ -3,10 +3,10 @@
     <div class="container p-0 shadow-lg">
       <img v-bind:src="require('@/assets/img/' + app.img)" class="image" :title="app.name" alt="screen capture of web app"/>
       <div class="overlay">
-        <div class="text text-shadow" aria-label="Application name">{{app.name}}
-          <p style="font-size:12px;" class="text-center">Development Stack:<br />
-            <small>{{app.stack}}</small>
-          </p>
+        <div class="text text-shadow" aria-label="Application name">{{app.name}}<br />
+          <span style="font-size:8px;" class="text-center">Development Stack:<br />
+          </span>
+            <p style="font-size:13px">{{app.stack}}</p>
           <div>
             <a class="ao" :href="app.githubUrl" style="text-decoration:none;" target="_blank" aria-label="to github repository" title="GitHub Repo">
               <i class="fab fa-github-square fa-2x"><p style="font-size:8px;">Repository</p></i>
