@@ -9,6 +9,7 @@
       </div>
       <div class="col-xs-12 order-xs-2 col-sm-12 order-sm-2 col-md-6 order-md-1">
         <h1 class="text-left">Justin Mattson</h1>
+        <h2 class="text-left" style="font-size:20px;">&nbsp;Experience Highlights</h2>
         <div class="text-left">
           <ul class="pr-3">
             <li>Many years experience solving problems and analyzing data, advancing from equipment maintenance technician to test solutions engineer.</li>
@@ -16,6 +17,7 @@
             <li>Encountered career roadblock due to a lack of software development experience.</li>
             <li>Completed Immersive Full Stack program at Boise Codeworks and loves having yet another skillset in the ever expanding toolbox!</li>
             <li>Seeking software development opportunities, involving front-end and/or back-end, potentially combined with data analysis and UI/UX.</li>
+            <li>Experience testing <a href="https://www.interactiveaccessibility.com/accessibility-statistics#:~:text=57%20Million%20Americans%20have%20a%20Disability&text=Consider%20impairments%20that%20impact%20accessibility,have%20difficulty%20lifting%20or%20grasping.">accessibility</a> using <a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1</a> guidelines within multiple user environments/devices. </li>
           </ul>
         </div>
       </div>
@@ -27,12 +29,12 @@
     <div class="container-fluid">
       <div class="row d-flex justify-content-around">
         <div class="col-12 mt-3 mb-0">
-          <H1 class="text-center text-shadow-light">Skills / Education:</H1>
+          <H2 class="text-center text-shadow-light">Skills / Education:</H2>
           <skills v-for="skill in skills" :key="skill.title" :skill="skill" />
         </div>
         <!-- Codeworks -->
         <div class="card col-12 col-md-5 col-lg-3 my-3 shadow border border-secondary">
-          <img src="@/assets/img/BCW.jpg" class="card-img-top p-3" />
+          <img src="@/assets/img/BCW.jpg" class="card-img-top p-3" alt="Photo of Justin Mattson"/>
           <div class="card-body pt-0">
             <h3 class="card-title">500+ Hours Coding</h3>
             <ul class="card-text text-left">
@@ -132,7 +134,7 @@
     <!-- PROJECTS -->
     <div class="row py-3" style="background-color:#8888;">
       <div class="col-12">
-        <H1 class="text-center py-3 text-shadow-light">Software Applications:</H1>
+        <H2 class="text-center py-3 text-shadow-light">Software Development Projects:</H2>
       </div>
       <applications v-for="app in applications" :key="app.name" :app="app" />
     </div>

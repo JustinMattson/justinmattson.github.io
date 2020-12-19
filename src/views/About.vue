@@ -37,6 +37,7 @@
             class="py-2"
             :src="require('@/assets/img/emergenetics_logo.png')"
             style="height:75px;"
+            alt="Emergenetics Logo"
           />
           <!-- <br />
           <small class="text-muted">https://www.emergenetics.com</small>-->
