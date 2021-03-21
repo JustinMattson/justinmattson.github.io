@@ -22,7 +22,7 @@
             <li>Encountered career roadblock due to a lack of software development experience.</li>
             <li>Completed Immersive Full Stack program at Boise Codeworks and loves having yet another skillset in the ever expanding toolbox!</li>
             <li>Seeking software development opportunities, involving front-end and/or back-end, potentially combined with data analysis and UI/UX.</li>
-            <li>Experience testing <a href="https://www.interactiveaccessibility.com/accessibility-statistics#:~:text=57%20Million%20Americans%20have%20a%20Disability&text=Consider%20impairments%20that%20impact%20accessibility,have%20difficulty%20lifting%20or%20grasping.">accessibility</a> using <a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1</a> guidelines within multiple user environments/devices. </li>
+            <li>Experience testing <a href="https://www.interactiveaccessibility.com/accessibility-statistics#:~:text=57%20Million%20Americans%20have%20a%20Disability&text=Consider%20impairments%20that%20impact%20accessibility,have%20difficulty%20lifting%20or%20grasping.">accessibility</a> using <a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.0</a> guidelines within multiple user environments/devices. </li>
           </ul>
         </div>
       </div>
