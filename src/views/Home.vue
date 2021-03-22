@@ -4,25 +4,63 @@
 
     <!-- ABOUT ME -->
     <div class="row">
-      <div class="col-xs-12 order-xs-1 col-sm-12 order-sm-1 col-md-6 order-md-2">
-        <img :src="require('@/assets/img/IMG_7090hc.jpg')" class="portrait mb-3" />
+      <div
+        class="col-xs-12 order-xs-1 col-sm-12 order-sm-1 col-md-6 order-md-2"
+      >
+        <img
+          :src="require('@/assets/img/IMG_7090hc.jpg')"
+          class="portrait mb-3"
+        />
       </div>
-      <div class="col-xs-12 order-xs-2 col-sm-12 order-sm-2 col-md-6 order-md-1">
+      <div
+        class="col-xs-12 order-xs-2 col-sm-12 order-sm-2 col-md-6 order-md-1"
+      >
         <h1 class="text-left">Justin Mattson</h1>
         <h2 class="text-left" style="font-size:16px;">
           <a href="mailto:justin.mattson@outlook.com">
-          <i class="far fa-envelope"></i> justin.mattson@outlook.com</a>
+            <i class="far fa-envelope"></i> justin.mattson@outlook.com</a
+          >
         </h2>
         <br />
-        <h2 class="text-left" style="font-size:20px;">&nbsp;Experience Highlights</h2>
+        <h2 class="text-left" style="font-size:20px;">
+          &nbsp;Experience Highlights
+        </h2>
         <div class="text-left">
           <ul class="pr-3">
-            <li>Many years experience solving problems and analyzing data, advancing from equipment maintenance technician to test solutions engineer.</li>
-            <li>Global project and process management, successfully collaborating across cultures and language barriers.</li>
-            <li>Encountered career roadblock due to a lack of software development experience.</li>
-            <li>Completed Immersive Full Stack program at Boise Codeworks and loves having yet another skillset in the ever expanding toolbox!</li>
-            <li>Seeking software development opportunities, involving front-end and/or back-end, potentially combined with data analysis and UI/UX.</li>
-            <li>Experience testing <a href="https://www.interactiveaccessibility.com/accessibility-statistics#:~:text=57%20Million%20Americans%20have%20a%20Disability&text=Consider%20impairments%20that%20impact%20accessibility,have%20difficulty%20lifting%20or%20grasping.">accessibility</a> using <a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.0</a> guidelines within multiple user environments/devices. </li>
+            <li>
+              Many years experience solving problems and analyzing data,
+              advancing from equipment maintenance technician to test solutions
+              engineer.
+            </li>
+            <li>
+              Global project and process management, successfully collaborating
+              across cultures and language barriers.
+            </li>
+            <li>
+              Encountered career roadblock due to a lack of software development
+              experience.
+            </li>
+            <li>
+              Completed Immersive Full Stack program at Boise Codeworks and
+              loves having yet another skillset in the ever expanding toolbox!
+            </li>
+            <li>
+              Seeking software development opportunities, involving front-end
+              and/or back-end, potentially combined with data analysis and
+              UI/UX.
+            </li>
+            <li>
+              Experience testing
+              <a
+                href="https://www.interactiveaccessibility.com/accessibility-statistics#:~:text=57%20Million%20Americans%20have%20a%20Disability&text=Consider%20impairments%20that%20impact%20accessibility,have%20difficulty%20lifting%20or%20grasping."
+                >accessibility</a
+              >
+              using
+              <a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/"
+                >WCAG 2.1</a
+              >
+              guidelines within multiple user environments/devices.
+            </li>
           </ul>
         </div>
       </div>
@@ -38,8 +76,14 @@
           <skills v-for="skill in skills" :key="skill.title" :skill="skill" />
         </div>
         <!-- Codeworks -->
-        <div class="card col-12 col-md-5 col-lg-3 my-3 shadow border border-secondary">
-          <img src="@/assets/img/BCW.jpg" class="card-img-top p-3" alt="Photo of Justin Mattson"/>
+        <div
+          class="card col-12 col-md-5 col-lg-3 my-3 shadow border border-secondary"
+        >
+          <img
+            src="@/assets/img/BCW.jpg"
+            class="card-img-top p-3"
+            alt="Photo of Justin Mattson"
+          />
           <div class="card-body pt-0">
             <h3 class="card-title">500+ Hours Coding</h3>
             <ul class="card-text text-left">
@@ -57,7 +101,8 @@
               href="https://boisecodeworks.com/"
               target="_blank"
               class="btn btn-outline-primary"
-            >Codeworks</a>
+              >Codeworks</a
+            >
           </div>
         </div>
 
@@ -73,34 +118,46 @@
               <b>Micron Technology, Inc.</b>
               <br />
               <small>
-                <i class="fas fa-long-arrow-alt-right">&nbsp;Project Management</i>
+                <i class="fas fa-long-arrow-alt-right"
+                  >&nbsp;Project Management</i
+                >
                 <br />
                 <i class="fas fa-long-arrow-alt-right">&nbsp; Data Analysis</i>
                 <br />
-                <i class="fas fa-long-arrow-alt-right">&nbsp; Problem Solving</i>
+                <i class="fas fa-long-arrow-alt-right"
+                  >&nbsp; Problem Solving</i
+                >
               </small>
             </p>
             <p class="card-text text-left">
               <b>Boise State University</b>
               <br />
               <small>
-                <i class="fas fa-long-arrow-alt-right">&nbsp;Electrical & Computer Engineering</i>
+                <i class="fas fa-long-arrow-alt-right"
+                  >&nbsp;Electrical & Computer Engineering</i
+                >
                 <br />
-                <i class="fas fa-long-arrow-alt-right">&nbsp;Computer Science</i>
+                <i class="fas fa-long-arrow-alt-right"
+                  >&nbsp;Computer Science</i
+                >
               </small>
             </p>
             <p class="card-text text-left">
               <b>College of Southern Idaho</b>
               <br />
               <small>
-                <i class="fas fa-long-arrow-alt-right">&nbsp;Upper Division Mathematics</i>
+                <i class="fas fa-long-arrow-alt-right"
+                  >&nbsp;Upper Division Mathematics</i
+                >
               </small>
             </p>
             <p class="card-text text-left">
               <b>Flathead Valley Community College</b>
               <br />
               <small>
-                <i class="fas fa-long-arrow-alt-right">&nbsp;General Education</i>
+                <i class="fas fa-long-arrow-alt-right"
+                  >&nbsp;General Education</i
+                >
               </small>
             </p>
             <!-- <a href="#" class="btn btn-outline-primary">Go somewhere</a> -->
@@ -108,16 +165,21 @@
         </div>
 
         <!-- Devry Phoenix -->
-        <div class="card col-12 col-md-5 col-lg-3 my-3 shadow border border-warning bg-secondary">
+        <div
+          class="card col-12 col-md-5 col-lg-3 my-3 shadow border border-warning bg-secondary"
+        >
           <img src="@/assets/img/devry-logo.svg" class="card-img-top p-3" alt />
           <div class="card-body pt-0">
             <h5 class="card-title" style="color:black;">Electronics</h5>
-            <p class="card-text" style="color:black;">Associate of Applied Science</p>
+            <p class="card-text" style="color:black;">
+              Associate of Applied Science
+            </p>
             <a
               href="https://www.devry.edu/about/campus-locations/arizona/phoenix.html"
               target="_blank"
               class="btn btn-outline-warning"
-            >DeVry Phoenix</a>
+              >DeVry Phoenix</a
+            >
           </div>
         </div>
       </div>
@@ -139,7 +201,9 @@
     <!-- PROJECTS -->
     <div class="row py-3" style="background-color:#8888;">
       <div class="col-12">
-        <H2 class="text-center py-3 text-shadow-light">Software Development Projects:</H2>
+        <H2 class="text-center py-3 text-shadow-light"
+          >Software Development Projects:</H2
+        >
       </div>
       <applications v-for="app in applications" :key="app.name" :app="app" />
     </div>
@@ -149,26 +213,37 @@
       <div
         class="d-flex valign text-light text-shadow-dark"
         style="font-size:72pt;"
-      >Have a nice day!</div>
+      >
+        Have a nice day!
+      </div>
     </div>
 
     <!-- FOOTER -->
     <div class style="height:50px;"></div>
-    <div class="col-12 text-center fixed-bottom p-0" style="background-color:#fffd">
+    <div
+      class="col-12 text-center fixed-bottom p-0"
+      style="background-color:#fffd"
+    >
       <div style="font-weight:700;">
         Made with
         <img src="@/assets/logo.png" style="height: 1em" />
         by Justin Mattson
         <br />
         <a href="https://www.facebook.com/justin.mattson.9" target="_blank">
-          <i class="fa fa-facebook-official text-dark-vue" aria-hidden="true"></i>
-        </a>&nbsp;
+          <i
+            class="fa fa-facebook-official text-dark-vue"
+            aria-hidden="true"
+          ></i> </a
+        >&nbsp;
         <a href="https://www.linkedin.com/in/justin-mattson" target="_blank">
-          <i class="fa fa-linkedin-square text-dark-vue" aria-hidden="true"></i>
-        </a>&nbsp;
+          <i
+            class="fa fa-linkedin-square text-dark-vue"
+            aria-hidden="true"
+          ></i> </a
+        >&nbsp;
         <a href="https://justinmattson.github.io/" target="_blank">
-          <i class="fa fa-github text-dark-vue p-1" aria-hidden="true"></i>
-        </a>&nbsp;
+          <i class="fa fa-github text-dark-vue p-1" aria-hidden="true"></i> </a
+        >&nbsp;
         <a href="mailto:justin.mattson@outlook.com" class="text-dark">
           <i class="fa fa-envelope-o text-dark-vue" aria-hidden="true"></i>
         </a>
@@ -389,8 +464,7 @@ export default {
         },
         {
           githubUrl: "https://github.com/JustinMattson/hackathon-1",
-          hostName:
-            "Hackathon:LocalHost",
+          hostName: "Hackathon:LocalHost",
           hostUrl: null,
           img: "sceneit.png",
           name: "Scene It! (Team: Troy Fuhriman, Steven Packard, Kevin Lane)",
