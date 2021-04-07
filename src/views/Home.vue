@@ -415,7 +415,7 @@ export default {
       ],
       applications: [
         {
-          githubUrl: "https://github.com/chuckmcclain/saaanr-cs",
+          githubUrl: "https://github.com/chuckmcclain/SAAANR-CS",
           hostName: "Heroku",
           hostUrl: "https://saaanr.herokuapp.com/",
           img: "saaanr.jpg",
