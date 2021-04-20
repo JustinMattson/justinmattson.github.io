@@ -57,7 +57,7 @@
               >
               using
               <a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/"
-                >WCAG 2.1</a
+                >WCAG 2.1 AA</a
               >
               guidelines within multiple user environments/devices.
             </li>
