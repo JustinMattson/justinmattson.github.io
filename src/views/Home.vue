@@ -434,8 +434,21 @@ export default {
           title: "Mac OS/iOS",
           link: "https://www.apple.com/",
           imgUrl:
-            "https://img1.pnghut.com/22/20/1/Tf6Ny7mwZ4/silhouette-black-apple-logo-symbol.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+        },    
+        {
+          title: "Windows 11",
+          link: "https://www.microsoft.com/en-us/windows/windows-11",
+          imgUrl:
+            "https://static.techspot.com/images2/downloads/topdownload/2021/08/2021-08-12-ts3_thumbs-9cf.png",
         },
+        {
+          title: "Android 12",
+          link: "https://www.android.com/android-12/",
+          imgUrl:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Android_12_Developer_Preview_logo.svg/1200px-Android_12_Developer_Preview_logo.svg.png",
+        },
+        
         // {
         //   title: null,
         //   link: null,
