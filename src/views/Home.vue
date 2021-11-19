@@ -431,16 +431,10 @@ export default {
             "https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo.png",
         },
         {
-          title: "Ubuntu 21.10",
-          link: "https://ubuntu.com/download/desktop",
-          imgUrl:
-            "https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo.png",
-        },
-        {
           title: "Mac OS/iOS",
           link: "https://www.apple.com/",
           imgUrl:
-            "https://img1.pnghut.com/2/17/18/ci93dataZU/silhouette-computer-business-apple-logo.jpg",
+            "https://img1.pnghut.com/22/20/1/Tf6Ny7mwZ4/silhouette-black-apple-logo-symbol.jpg",
         },
         // {
         //   title: null,
