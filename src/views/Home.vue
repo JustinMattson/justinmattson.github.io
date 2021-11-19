@@ -263,7 +263,7 @@ export default {
         {
           title: "VSCode",
           link: "https://code.visualstudio.com/",
-          imgUrl: "https://www.userlogos.org/files/vscode-logo.png",
+          imgUrl: "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
         },
         {
           title: "HTML",
@@ -406,6 +406,23 @@ export default {
           link: "https://www.selenium.dev/",
           imgUrl:
             "https://th.bing.com/th/id/OIP.NPQVOCjh0Pqb-yO8BgQ5HQAAAA?w=179&h=180&c=7&o=5&dpr=1.5&pid=1.7",
+        },
+        {
+          title: "Visual Studio",
+          link: "https://visualstudio.microsoft.com/launch/",
+          imgUrl: "https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg",
+        },
+        {
+          title: "Dax Studio",
+          link: "https://daxstudio.org/",
+          imgUrl:
+            "http://www.sqlbi.com/wp-content/uploads/daxstudio_logo.png",
+        },
+        {
+          title: "Microsoft Server Management Studio",
+          link: "https://www.microsoft.com/en-us/sql-server/sql-server-downloads?rtc=1",
+          imgUrl:
+            "https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png",
         },
         // {
         //   title: null,
