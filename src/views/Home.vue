@@ -295,10 +295,10 @@ export default {
             "https://www.drupal.org/files/project-images/font_awesome_logo.png",
         },
         {
-          title: "GetHub",
+          title: "GitHub",
           link: "https://github.com/",
           imgUrl:
-            "http://www.seeklogo.net/wp-content/uploads/2015/09/github-mark-logo-400x400.png",
+            "https://github.githubassets.com/images/modules/logos_page/Octocat.png",
         },
         {
           title: "NPM",
@@ -423,6 +423,24 @@ export default {
           link: "https://www.microsoft.com/en-us/sql-server/sql-server-downloads?rtc=1",
           imgUrl:
             "https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png",
+        },
+        {
+          title: "Ubuntu 21.10",
+          link: "https://ubuntu.com/download/desktop",
+          imgUrl:
+            "https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo.png",
+        },
+        {
+          title: "Ubuntu 21.10",
+          link: "https://ubuntu.com/download/desktop",
+          imgUrl:
+            "https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo.png",
+        },
+        {
+          title: "Mac OS/iOS",
+          link: "https://www.apple.com/",
+          imgUrl:
+            "https://img1.pnghut.com/2/17/18/ci93dataZU/silhouette-computer-business-apple-logo.jpg",
         },
         // {
         //   title: null,
