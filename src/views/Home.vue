@@ -448,6 +448,11 @@ export default {
           imgUrl:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Android_12_Developer_Preview_logo.svg/1200px-Android_12_Developer_Preview_logo.svg.png",
         },
+        {
+          title: "DiSC",
+          link: "https://www.discprofile.com/what-is-disc",
+          imgUrl: "https://justinmattson.github.io/img/DiSC.jpg",
+        },
         
         // {
         //   title: null,
