@@ -23,6 +23,33 @@
         style="min-width:320px;max-width:450px;"
       >
         <a
+          href="https://drive.google.com/file/d/1E2uT71sdJmBREmWXiopQ0wf8crqtKSbt/view?usp=sharing"
+        >
+          <h4 class="p-2 m-0">My DiSC Profile</h4>
+        </a>
+      </div>
+      <div
+        class="col-12 col-md-6 text-light-vue text-shadow-dark valign bg-white rounded-lg"
+        style="min-width:320px;max-width:450px;"
+      >
+        <a href="https://www.discprofile.com">
+          <img
+            class="py-2"
+            :src="require('@/assets/img/DiSC.jpg')"
+            style="height:75px;"
+            alt="DiSC Assessment"
+          /> DiSC Assessment
+          <!-- <br />
+          <small class="text-muted">https://www.emergenetics.com</small>-->
+        </a>
+      </div>
+    </div>
+        <div class="row m-3 d-flex justify-content-center py-2 my-2">
+      <div
+        class="col-12 text-light-vue text-shadow-dark valign bg-white rounded-lg"
+        style="min-width:320px;max-width:450px;"
+      >
+        <a
           href="https://drive.google.com/file/d/1wr6A3HvVw2nHFLzWRMOftcsuuIi1bPSK/view?usp=sharing"
         >
           <h4 class="p-2 m-0">My Emergenetics Profile</h4>
