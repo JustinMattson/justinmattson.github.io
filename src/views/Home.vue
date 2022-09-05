@@ -29,8 +29,8 @@
           <ul class="pr-3">
             <li>
               Many years experience solving problems and analyzing data,
-              advancing from equipment maintenance technician to test solutions
-              engineer.
+              advancing from Equipment Maintenance technician to Test Solutions
+              Engineer.
             </li>
             <li>
               Global project and process management, successfully collaborating
@@ -38,16 +38,16 @@
             </li>
             <li>
               Encountered career roadblock due to a lack of software development
-              experience.
-            </li>
-            <li>
-              Completed Immersive Full Stack program at Boise Codeworks and
+              experience. Completed Immersive Full Stack program at Boise Codeworks and
               loves having yet another skillset in the ever expanding toolbox!
             </li>
             <li>
-              Seeking software development opportunities, involving front-end
-              and/or back-end, potentially combined with data analysis and
-              UI/UX.
+              Seeking software development opportunities, involving front-end/back-end, 
+              potentially combined with test automation, data analysis, and
+              UI/UX development.
+            </li>
+            <li>
+                <a href="https://atsqa.org/certified-testers/profile/3742005ff9ab41709c5161e941216e1d">ISTQB Certified Tester</a> <small>August 30, 2022</small>
             </li>
             <li>
               Experience testing
