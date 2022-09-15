@@ -1,5 +1,5 @@
 # Justin Mattson
-<img class="img-responsive" src="https://justinmattson.github.io/src/assets/img/IMG_7090hc.jpg">
+<img class="img-responsive" src="https://justinmattson.github.io/img/IMG_7090hc.777f1c42.jpg">
 
 ### Hi there 👋
 
