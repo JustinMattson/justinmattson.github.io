@@ -360,7 +360,7 @@ export default {
           title: "Docker",
           link: "https://www.docker.com/",
           imgUrl:
-            "https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ",
+            "https://elang2.github.io/myblog/images/docker/docker-logo_medium.png",
         },
         {
           title: "StackOverflow",
