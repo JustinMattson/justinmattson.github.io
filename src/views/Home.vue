@@ -448,6 +448,12 @@ export default {
           imgUrl:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Android_12_Developer_Preview_logo.svg/1200px-Android_12_Developer_Preview_logo.svg.png",
         },
+        {
+          title: "Android 13",
+          link: "https://www.android.com/android-13/",
+          imgUrl:
+            "https://www.gadgetpilipinas.net/wp-content/uploads/2022/09/Android-13-Logo-1536x804.jpg",
+        },
         // {
         //   title: null,
         //   link: null,
