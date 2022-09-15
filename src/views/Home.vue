@@ -61,6 +61,11 @@
               >
               guidelines within multiple user environments/devices.
             </li>
+            <li>
+                Certified <a href="https://saaanr.herokuapp.com/#/" title="Northern Rockies - Scottish American Athletic Association">SAAA</a> Judge, 
+                avid Scottish highland games thrower/mentor, and <a href="https://www.guinnessworldrecords.com/news/2014/9/scottish-history-made-most-people-caber-tossing-simultaneously-world-record-set-in-inverness-60499" title="World Record Event">
+                Guinness World Record</a> holder.
+            </li>
           </ul>
         </div>
       </div>
