@@ -321,7 +321,7 @@ export default {
           title: "MongoDB",
           link: "https://www.mongodb.com/",
           imgUrl:
-            "https://www.gigapros.com/portal/wp-content/uploads/2014/12/mongodb.png",
+            "https://th.bing.com/th/id/OIP.4y0O4Ytk5MArYDVEKMahLQHaHa?pid=ImgDet&rs=1",
         },
         {
           title: "Postman",
