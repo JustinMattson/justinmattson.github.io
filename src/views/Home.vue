@@ -474,14 +474,14 @@ export default {
         //   name: "SAAA Northern Rockies",
         //   stack: "Vue.js | C# | MySQL",
         // },
-        {
-          githubUrl: "https://github.com/JustinMattson/mttreasures",
-          hostName: "Heroku",
-          hostUrl: "https://mttreasures.herokuapp.com/",
-          img: "mttreasures.png",
-          name: "MT Treasure",
-          stack: "Vue.js | Node.js | MongoDB",
-        },
+        // {
+        //   githubUrl: "https://github.com/JustinMattson/mttreasures",
+        //   hostName: "Heroku",
+        //   hostUrl: "https://mttreasures.herokuapp.com/",
+        //   img: "mttreasures.png",
+        //   name: "MT Treasure",
+        //   stack: "Vue.js | Node.js | MongoDB",
+        // },
         {
           githubUrl: "https://github.com/JustinMattson/CS-final-keepr",
           hostName: "Heroku",
