@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\views"
   ],
-  "SelectedNode": "\\C:\\Users\\toyvo\\Source\\Repos\\justinmattson.github.io",
+  "SelectedNode": "\\src\\views\\About.vue",
   "PreviewInSolutionExplorer": false
 }
