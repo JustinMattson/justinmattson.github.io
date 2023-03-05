@@ -466,14 +466,14 @@ export default {
         // },
       ],
       applications: [
-        {
-          githubUrl: "https://github.com/chuckmcclain/SAAANR-CS",
-          hostName: "Heroku",
-          hostUrl: "https://saaanr.herokuapp.com/",
-          img: "saaanr.jpg",
-          name: "SAAA Northern Rockies",
-          stack: "Vue.js | C# | MySQL",
-        },
+        // {
+        //   githubUrl: "https://github.com/chuckmcclain/SAAANR-CS",
+        //   hostName: "Heroku",
+        //   hostUrl: "https://saaanr.herokuapp.com/",
+        //   img: "saaanr.jpg",
+        //   name: "SAAA Northern Rockies",
+        //   stack: "Vue.js | C# | MySQL",
+        // },
         {
           githubUrl: "https://github.com/JustinMattson/mttreasures",
           hostName: "Heroku",
