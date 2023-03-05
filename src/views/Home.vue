@@ -482,14 +482,14 @@ export default {
         //   name: "MT Treasure",
         //   stack: "Vue.js | Node.js | MongoDB",
         // },
-        {
-          githubUrl: "https://github.com/JustinMattson/CS-final-keepr",
-          hostName: "Heroku",
-          hostUrl: "https://keepr252.herokuapp.com/#/",
-          img: "keepr.png",
-          name: "Keepr",
-          stack: "Vue.js | C# | MySQL",
-        },
+        //{
+        //  githubUrl: "https://github.com/JustinMattson/CS-final-keepr",
+        //  hostName: "Heroku",
+        //  hostUrl: "https://keepr252.herokuapp.com/#/",
+        //  img: "keepr.png",
+        //  name: "Keepr",
+        //  stack: "Vue.js | C# | MySQL",
+        //},
         {
           githubUrl: "https://github.com/JustinMattson/capstone-volunteer",
           hostName: "Heroku",
