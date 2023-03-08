@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\views"
   ],
-  "SelectedNode": "\\C:\\Users\\toyvo\\source\\repos\\justinmattson.github.io",
+  "SelectedNode": "\\package-lock.json",
   "PreviewInSolutionExplorer": false
 }

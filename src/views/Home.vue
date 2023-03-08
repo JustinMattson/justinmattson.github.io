@@ -343,7 +343,7 @@ export default {
           title: "Heroku",
           link: "https://www.heroku.com/",
           imgUrl:
-            "https://brand.heroku.com/static/media/heroku-logo-stroke.aa0b53be.svg",
+            "https://cdn.iconscout.com/icon/free/png-256/heroku-2752161-2284978.png",
         },
         {
           title: "C#",
