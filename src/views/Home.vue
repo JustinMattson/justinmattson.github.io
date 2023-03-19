@@ -26,47 +26,46 @@
           &nbsp;Experience Highlights
         </h2>
         <div class="text-left">
-          <ul class="pr-3">
-            <li>
-              Many years experience solving problems and analyzing data,
-              advancing from Equipment Maintenance technician to Test Solutions
-              Engineer.
-            </li>
-            <li>
-              Global project and process management, successfully collaborating
-              across cultures and language barriers.
-            </li>
-            <li>
-              Encountered career roadblock due to a lack of software development
-              experience. Completed Immersive Full Stack program at Boise Codeworks and
-              loves having yet another skillset in the ever expanding toolbox!
-            </li>
-            <li>
-              Seeking software development opportunities, involving front-end/back-end, 
-              potentially combined with test automation, data analysis, and
-              UI/UX development.
-            </li>
-            <li>
-                <a href="https://atsqa.org/certified-testers/profile/3742005ff9ab41709c5161e941216e1d">ISTQB Certified Tester</a> <small>August 30, 2022</small>
-            </li>
-            <li>
-              Experience testing
-              <a
-                href="https://www.interactiveaccessibility.com/accessibility-statistics#:~:text=57%20Million%20Americans%20have%20a%20Disability&text=Consider%20impairments%20that%20impact%20accessibility,have%20difficulty%20lifting%20or%20grasping."
-                >accessibility</a
-              >
-              using
-              <a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/"
-                >WCAG 2.1 AA</a
-              >
-              guidelines within multiple user environments/devices.
-            </li>
-            <li>
-                Certified <a href="https://saaanr.herokuapp.com/#/" title="Northern Rockies - Scottish American Athletic Association">SAAA</a> Judge, 
-                avid Scottish highland games thrower/mentor, and <a href="https://www.guinnessworldrecords.com/news/2014/9/scottish-history-made-most-people-caber-tossing-simultaneously-world-record-set-in-inverness-60499" title="World Record Event">
-                Guinness World Record</a> holder.
-            </li>
-          </ul>
+            <ul class="pr-3">
+                <li>
+                    Many years experience solving problems and analyzing data,
+                    advancing from Equipment Maintenance technician to Test Solutions
+                    Engineer.
+                </li>
+                <li>
+                    Global project and process management, successfully collaborating
+                    across cultures and language barriers.
+                </li>
+                <li>
+                    Encountered career roadblock due to a lack of software development
+                    experience. Completed Immersive Full Stack program at Boise Codeworks and
+                    loves having yet another skillset in the ever expanding toolbox!
+                </li>
+                <li>
+                    Seeking software development opportunities, involving front-end/back-end,
+                    potentially combined with test automation, data analysis, and
+                    UI/UX development.
+                </li>
+                <li>
+                    <a href="https://atsqa.org/certified-testers/profile/3742005ff9ab41709c5161e941216e1d">ISTQB Certified Tester</a> <small>August 30, 2022</small>
+                </li>
+                <li>
+                    Experience testing
+                    <a href="https://www.interactiveaccessibility.com/accessibility-statistics#:~:text=57%20Million%20Americans%20have%20a%20Disability&text=Consider%20impairments%20that%20impact%20accessibility,have%20difficulty%20lifting%20or%20grasping.">accessibility</a>
+                    using
+                    <a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1 AA</a>
+                    guidelines within multiple user environments/devices.
+                </li>
+                <li>
+                    Unit tester of Power BI models, tabular and multidimensional cube models, and SQL databases, using C# within Visual Studio.
+                </li>
+                <li>
+                    Certified <a href="https://saaanr.herokuapp.com/#/" title="Northern Rockies - Scottish American Athletic Association">SAAA</a> Judge,
+                    avid Scottish highland games thrower, mentor, and <a href="https://www.guinnessworldrecords.com/news/2014/9/scottish-history-made-most-people-caber-tossing-simultaneously-world-record-set-in-inverness-60499" title="World Record Event">
+                        Guinness World Record
+                    </a> holder.
+                </li>
+            </ul>
         </div>
       </div>
 
@@ -447,17 +446,33 @@ export default {
           imgUrl:
             "https://static.techspot.com/images2/downloads/topdownload/2021/08/2021-08-12-ts3_thumbs-9cf.png",
         },
+        //{
+        //  title: "Android 12",
+        //  link: "https://www.android.com/android-12/",
+        //  imgUrl:
+        //    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Android_12_Developer_Preview_logo.svg/1200px-Android_12_Developer_Preview_logo.svg.png",
+        //},
         {
-          title: "Android 12",
-          link: "https://www.android.com/android-12/",
-          imgUrl:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Android_12_Developer_Preview_logo.svg/1200px-Android_12_Developer_Preview_logo.svg.png",
-        },
-        {
-          title: "Android 13",
+          title: "Android 13 Preview Tester",
           link: "https://www.android.com/android-13/",
           imgUrl:
-            "https://www.gadgetpilipinas.net/wp-content/uploads/2022/09/Android-13-Logo-1536x804.jpg",
+            "https://blogger.googleusercontent.com/img/a/AVvXsEjnrShXcFkBmErmhgdmx82vJbaKBIxU6p2Yz2Vr1V7AlFkD2tGwRmx_a7tWcInPmiUh8VpPmEEqXut-EjP23lFYG9wiMO4sKBDEwbZ3MNppZOy_HW54OXO4SkdQVH08cWdi7QnTMMwGELFoPq_r7_cyaGU8fx2InJG2R-NfkqF1IRt7rKOfA8M1GhUy",
+            },
+        {
+            title: "Android 14 Preview Tester",
+            link: "https://developer.android.com/about/versions/14",
+            imgUrl:
+                "https://developer.android.com/static/about/versions/14/images/android-14-threecolor_512x512.svg",
+        },
+        {
+            title: "Power BI",
+            link: "https://powerbi.microsoft.com/en-us/",
+            imgUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png",
+        },
+        {
+            title: "Azure DevOps",
+            link: "https://azure.microsoft.com/en-us/products/devops",
+            imgUrl: "https://149765861.v2.pressablecdn.com/wp-content/uploads/2020/01/devops.png",
         },
         // {
         //   title: null,
